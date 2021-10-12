@@ -1,6 +1,4 @@
-wheel
-setuptools
-matplotlib==2.0.2
 numpy==1.15.4
 scipy==1.2.0
 scikit-learn==0.20.2
+matplotlib==2.1.0
