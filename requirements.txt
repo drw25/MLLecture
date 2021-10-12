@@ -1,3 +1,5 @@
+wheel
+setuptools
 matplotlib==2.0.2
 numpy==1.15.4
 scipy==1.2.0
